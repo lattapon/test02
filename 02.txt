@@ -9,12 +9,11 @@ helooooo
 
 นี่อาร์มเอง
 
-<<<<<<< HEAD
 
 
 wawiee
 
 
-=======
+
 AS
->>>>>>> master
+
